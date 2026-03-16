@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+
+# Virtual env
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Local config
+.env
+
+# Exclude large data / generated output
+*.csv
+*.xlsx
+*.db
+
+# Exclude Trabalho 1 replication folder
+"Trabalho 1 - Replicação de artigo/"
