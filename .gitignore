@@ -24,4 +24,7 @@ Thumbs.db
 *.db
 
 # Exclude Trabalho 1 replication folder
-"Trabalho 1 - Replicação de artigo/"
+Trabalho\ 1\ */
+
+# Temp scripts
+create_github_repo.py
